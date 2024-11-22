@@ -5,6 +5,7 @@ body {
 .ww-home-page {
   background: url("../images/home-img.jpg") no-repeat center center;
   background-size: cover;
+  background-position: right;
   height: 90vh;
   min-height: 480px;
   max-height: 1080px; }
