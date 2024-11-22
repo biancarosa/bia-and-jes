@@ -6,6 +6,9 @@ body {
   background: url("../images/home-img.jpg") no-repeat center center;
   background-size: cover;
   background-position: right;
+  @media screen and (max-width: 768px) {
+    background-position: 90%;
+  }
   height: 90vh;
   min-height: 480px;
   max-height: 1080px; }
